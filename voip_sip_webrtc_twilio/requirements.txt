@@ -1,1 +1,1 @@
-python_jwt>=3.2.4
+PyJWT>=1.7.1
